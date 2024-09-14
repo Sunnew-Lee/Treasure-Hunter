@@ -11,8 +11,7 @@
 
 - **High Concept:**  
   "Treasure Hunter" is a top-down adventure game. The goal of this game is to gather unknown valuable treasures while hiding from enemies. The player progresses deeper into the dungeon for more treasures.
-- Look up for [Treasure Hunter game design document(GDD)]
-- (https://docs.google.com/document/d/1TE34KTZ0iJ0eZNCGwQI2TQDg1yutOPJ_hzvidDJawsE/edit?usp=sharing) for detailed information about this game.
+- Look up for [Treasure Hunter game design document(GDD)](https://docs.google.com/document/d/1TE34KTZ0iJ0eZNCGwQI2TQDg1yutOPJ_hzvidDJawsE/edit?usp=sharing) for detailed information about this game.
 
 - All content © 2021 DigiPen (USA) Corporation, all rights reserved.
 
